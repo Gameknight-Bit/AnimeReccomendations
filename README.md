@@ -1,4 +1,4 @@
-# AnimeReccomendations
+# AnimeRecommendations
 A quick python script I wrote that will reccomend you anime's based off of what you watched...
 This project was something I wanted to do for fun and probably won't update it that often. I wanted to brush up on my Python and learn more about using Kaggle too!!
 
